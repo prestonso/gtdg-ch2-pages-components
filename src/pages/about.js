@@ -6,7 +6,7 @@ export default function About() {
     <div>
       <h1>About us</h1>
       <p>Welcome to our about page! Here is some info about us.</p>
-      <Footer />
+      <Footer copyrightYear="2020" />
     </div>
   )
 }
