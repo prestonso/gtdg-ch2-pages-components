@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div>
       <p>Hello world!</p>
-      <Footer />
+      <Footer copyrightYear="2020" />
     </div>
   )
 }
